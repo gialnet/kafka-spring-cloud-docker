@@ -8,3 +8,6 @@ Note
 > setx DOCKER_HOST_IP 192.168.99.100
 > docker-compose up -d
 ``` 
+
+Provide one Rest endpoint for test 
+localhost:8080/new-message?message=Hello
